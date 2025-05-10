@@ -1,18 +1,22 @@
-# SyveX Privacy Policy  
-**Last Updated:** [10.05.2025]  
+SyveX Gizlilik Politikası
+Son Güncelleme: [10.05.2025]
 
-## 1. Data We Process  
-- **Message Content:** Only for real-time moderation (spam, bad words).  
-- **User Data:** Usernames, statuses (for activity-based roles).  
+1. İşlediğimiz Veriler
+Mesaj İçerikleri: Sadece gerçek zamanlı moderasyon için (spam, uygunsuz kelimeler).
 
-## 2. How We Use Data  
-- To enforce server rules (auto-delete harmful content).  
-- To provide commands (e.g., `/translate`).  
-- **We never store messages or share data with third parties.**  
+Kullanıcı Verileri: Kullanıcı adları, durum bilgileri (aktiviteye dayalı roller için).
 
-## 3. Data Retention  
-- Deleted messages are logged for **max 24 hours** (then erased).  
-- Activity data (e.g., roles) is kept only while the user is in the server.  
+2. Verileri Nasıl Kullanıyoruz?
+Sunucu kurallarını uygulamak için (zararlı içeriği otomatik silme).
 
-## 4. Contact  
-For questions, join our [Support Server](https://discord.gg/dJBSVuB5Ce).  
+Komut sağlamak için (örneğin, /translate).
+
+Mesajları asla saklamıyoruz veya üçüncü şahıslarla paylaşmıyoruz.
+
+3. Veri Saklama Süresi
+Silinen mesajlar en fazla 24 saat kaydedilir (sonra tamamen silinir).
+
+Aktivite verileri (örneğin roller) sadece kullanıcı sunucuda olduğu sürece tutulur.
+
+4. İletişim
+Sorularınız için Destek Sunucumuza katılın.
